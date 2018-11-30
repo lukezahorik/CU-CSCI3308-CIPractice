@@ -1,0 +1,5 @@
+Lucas Zahorik
+Some help recieved from Dillon Elliot
+
+Github: https://github.com/lukezahorik/CU-CSCI3308-CIPractice
+Travis CI: https://travis-ci.com/lukezahorik/CU-CSCI3308-CIPractice
